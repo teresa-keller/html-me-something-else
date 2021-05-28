@@ -8,5 +8,13 @@ body {
 
 .vader {
     background-image: url(https://cdn.pixabay.com/photo/2017/08/29/14/13/chicken-nuggets-2693456__340.jpg);
-    
+}
+
+p {
+    background-color: cornflowerblue;
+    margin: 25px 50px 75px;
+}
+
+h2 {
+    text-align: center;
 }

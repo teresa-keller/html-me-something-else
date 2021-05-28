@@ -10,11 +10,16 @@ body {
     background-image: url(https://cdn.pixabay.com/photo/2017/08/29/14/13/chicken-nuggets-2693456__340.jpg);
 }
 
-p {
-    background-color: cornflowerblue;
+.words {
+    background-color: thistle;
     margin: 25px 50px 75px;
+    text-decoration: dotted;
 }
 
 h2 {
     text-align: center;
+}
+
+div {
+    padding: 50px;
 }
